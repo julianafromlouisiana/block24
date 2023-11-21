@@ -1,0 +1,40 @@
+body {
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    font-weight: 20px;
+    background-color: #9ac924;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  h2 {
+     font-size: 34px;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 8px;
+  }
+
+  p {
+    cursor: pointer;
+    font-size: 18px;
+    color: antiquewhite;
+    margin-bottom: 10px;
+  }
+  
+  p:hover {
+    text-decoration: underline antiquewhite;
+    font-weight: bold;
+  }
